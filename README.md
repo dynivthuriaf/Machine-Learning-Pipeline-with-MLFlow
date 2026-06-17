@@ -1,2 +1,1 @@
-# IA_Machine-Learning
-Projets Intelligence Artificielle et Machine Learning
+# Machine learning Pipeline with MLFlow
